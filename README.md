@@ -1,2 +1,1 @@
-# TinDog
-Experimenting with Html Css and Bootstrap.
+TinDog Starting Files
